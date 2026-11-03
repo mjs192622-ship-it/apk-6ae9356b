@@ -1,0 +1,48 @@
+{
+    "project_info": {
+        "project_number": "892818335182",
+        "project_id": "grammol",
+        "storage_bucket": "grammol.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:892818335182:android:7b1212a5d5418d7910379f",
+                "android_client_info": {
+                    "package_name": "com.grammol.messenger"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCOrBTFMEbX2eDAIXuxBLudHCFUB5FaQyg"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:892818335182:android:e123080657fa09c510379f",
+                "android_client_info": {
+                    "package_name": "com.shaurma.grammol"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCOrBTFMEbX2eDAIXuxBLudHCFUB5FaQyg"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
